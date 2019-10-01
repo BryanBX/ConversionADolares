@@ -1,0 +1,7 @@
+E:\Google Drive\Proyects\PesosADolares\bin\Debug\PesosADolares.exe.config
+E:\Google Drive\Proyects\PesosADolares\bin\Debug\PesosADolares.exe
+E:\Google Drive\Proyects\PesosADolares\bin\Debug\PesosADolares.pdb
+E:\Google Drive\Proyects\PesosADolares\obj\Debug\PesosADolares.csprojAssemblyReference.cache
+E:\Google Drive\Proyects\PesosADolares\obj\Debug\PesosADolares.csproj.CoreCompileInputs.cache
+E:\Google Drive\Proyects\PesosADolares\obj\Debug\PesosADolares.exe
+E:\Google Drive\Proyects\PesosADolares\obj\Debug\PesosADolares.pdb
